@@ -1,9 +1,10 @@
 import "./App.css";
 
+import AddNumber from "./AddNumber";
 function App() {
   return (
     <>
-      <h1>Number - List</h1>
+      <AddNumber />
     </>
   );
 }
